@@ -1,0 +1,6 @@
+interface:
+  display_name: "Game Vision"
+  short_description: "Фиксирует идею после брейншторма в Game Vision Document"
+  default_prompt: "Используй $game-vision, чтобы зафиксировать идею после брейншторма в Game Vision Document."
+policy:
+  allow_implicit_invocation: false
